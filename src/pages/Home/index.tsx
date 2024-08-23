@@ -12,6 +12,7 @@ const HomePage = () => {
       <Button
         onClick={() => {
           setName(name + '1');
+          console.log(b);
         }}
         type={'primary'}
       >

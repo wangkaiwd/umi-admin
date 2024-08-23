@@ -14,6 +14,9 @@ importers:
       '@ant-design/pro-components':
         specifier: ^2.7.10
         version: 2.7.10(antd@5.18.1(date-fns@2.30.0)(moment@2.30.1)(react-dom@18.1.0(react@18.1.0))(react@18.1.0))(rc-field-form@2.2.1(react-dom@18.1.0(react@18.1.0))(react@18.1.0))(react-dom@18.1.0(react@18.1.0))(react@18.1.0)
+      '@arms/js-sdk':
+        specifier: 1.8.36-beta.13
+        version: 1.8.36-beta.13
       '@umijs/max':
         specifier: ^4.2.11
         version: 4.2.11(@babel/core@7.24.7)(@types/node@20.14.2)(@types/react-dom@18.3.0)(@types/react@18.3.3)(dva@2.5.0-beta.2(react-dom@18.1.0(react@18.1.0))(react@18.1.0))(lightningcss@1.22.1)(prettier@2.8.8)(rc-field-form@2.2.1(react-dom@18.1.0(react@18.1.0))(react@18.1.0))(react-dom@18.1.0(react@18.1.0))(react@18.1.0)(rollup@3.29.4)(terser@5.31.1)(type-fest@1.4.0)(typescript@5.4.5)(webpack@5.92.0)
@@ -187,6 +190,9 @@ packages:
 
   '@antfu/utils@0.7.8':
     resolution: {integrity: sha512-rWQkqXRESdjXtc+7NRfK9lASQjpXJu1ayp7qi1d23zZorY+wBHVLHHoVcMsEnkqEBWTFqbztO7/QdJFzyEcLTg==}
+
+  '@arms/js-sdk@1.8.36-beta.13':
+    resolution: {integrity: sha512-R/634KKi52NHMf/NWSHItSaNfuq6fYRGiyde3Lr0P7GEC7KxSlUet2QXrKbVrCWLcYbFN67JGEQow9LcD7eSAQ==}
 
   '@babel/code-frame@7.24.7':
     resolution: {integrity: sha512-BcYH1CVJBO9tvyIZ2jVeXgSIMvGZ2FDRvDdOIVQyuklNKSsx+eppDEBq/g47Ayw+RqNFE+URvOShmf+f/qwAlA==}
@@ -6281,6 +6287,8 @@ snapshots:
       find-up: 5.0.0
 
   '@antfu/utils@0.7.8': {}
+
+  '@arms/js-sdk@1.8.36-beta.13': {}
 
   '@babel/code-frame@7.24.7':
     dependencies:

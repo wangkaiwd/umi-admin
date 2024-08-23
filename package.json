@@ -13,6 +13,7 @@
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
     "@ant-design/pro-components": "^2.7.10",
+    "@arms/js-sdk": "1.8.36-beta.13",
     "@umijs/max": "^4.2.11",
     "antd": "^5.4.0"
   },
