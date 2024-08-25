@@ -52,4 +52,6 @@ export default defineConfig({
     },
   ],
   npmClient: 'pnpm',
+  mako: {},
+  devtool: 'source-map',
 });
