@@ -9,7 +9,6 @@ const HomePage = () => {
   return (
     <PageContainer ghost>
       <div className={styles.container}>
-        test push
         <Guide name={trim(name)} />
       </div>
     </PageContainer>
